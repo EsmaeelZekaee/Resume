@@ -23,7 +23,7 @@
 
 ## Biography
 
-I borned on 21 Mar 1983. I fell in love with programming when I was high school student. I studied **Mathematics** at university. Now I'm senior **software developer**. I'm single and live in Tehran.
+I borned on 21 Mar 1983. I fell in love with programming when I was high school student. I studied **Mathematics** at university. Now I'm senior **software developer**. I specialize in the fields of object-oriented programming, software analysis and implementation of complex algorithms, and implementation of modren design patterns.
 
 ## Job Objective 
 
