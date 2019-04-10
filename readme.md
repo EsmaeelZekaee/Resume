@@ -9,39 +9,42 @@
 # Esmaeel Zekaee
 
 <div id="webaddress">
-
-   <a href="tel:+989371217979">(+98) 9371217979</a> | <a href="mailto:zekaee.esmaeel@gmail.com">Gmail</a>
-   |  <a href="https://www.linkedin.com/in/zekaee-esmaeel-37474aab/">LinkedIn</a> | 
-   <a href="https://t.me/Izmaeilz">Telegram</a>
+  <a target="_blank" href="mailto:zekaee.esmaeel@gmail.com">Gmail</a>
+   |  <a target="_blank" href="https://www.linkedin.com/in/zekaee-esmaeel-37474aab/">LinkedIn</a> | 
+   <a target="_blank" href="https://t.me/Izmaeilz">Telegram</a>
    |
-   <a href="https://github.com/EsmaeelZekaee/Resume">
+   <a target="_blank" href="https://github.com/EsmaeelZekaee/Resume">
    Github</a>
+</div>
+  
+<div id="webaddress">
+   <a target="_blank" href="tel:+989371217979">(+98) 9371217979</a>
 </div>
 
 ## Biography
 
-I borned on 21 Mar 1983. I fell in love with programming when I was high school student. I Studied Mathematics at university. Now I'm senior software developer. I'm single and live in Tehran.
+I borned on 21 Mar 1983. I fell in love with programming when I was high school student. I studied **Mathematics** at university. Now I'm senior **software developer**. I'm single and live in Tehran.
 
 ## Job Objective 
 
-Looking for a job position in an experienced team in a .NET based software company to apply my experiences in designing, developing, and codding web applications and adding value to business.
+Looking for a job position in an experienced team in a **.NET based** software company to apply my experiences in **designing**, **developing**, and **codding** web applications and adding value to business.
 
-## Specialized in
+## Specialized In
 
 ### Skilled in
 
-.Net Framework (with C# since 2004), Asp.Net MVC, RESTFul WebAPI, Asp.Net Core, EF, JavaScript, jQuery, AngularJs, Angular, HTML, CSS, TypeScirpt, LESS, SemanticUI, nopCommerce (plugin developer), SQLServer, MS-Office (expert user in VBA) , T4 (I created many T4 templates to auto generate C#, TS and HTML files in software development environment at design time.), WFP (**nopCommerce** Resource Editor), Windows From Applications (Graph drawing and coloring application with professional GUI)
+.Net Framework (with C# since 2004), Asp.Net MVC, RESTFul WebAPI, Asp.Net Core, EF, JavaScript, jQuery, AngularJs, Angular, HTML, CSS, TypeScirpt, LESS, SemanticUI, nopCommerce (plugin developer), SQLServer, MS-Office (expert user in VBA) , T4 (I created many T4 templates to auto generate C#, TS and HTML files in software development environment at design time.), WFP (**nopCommerce** Resource Editor), Windows From Applications (Graph drawing and coloring application with professional GUI.)
 
 ### Work Experience
-QBasic (I became the programmer since 1999!),
-VB (I continued programming with VB until I got familiar with C# and .Net tecnology, I wrote a few applications with VB for example a small accounting program especially for a flower shop),
-C/C++ (I wrote a logic bomb for MS-DOC OS, and some small programs with MFC), Fortran (I used it in parallel processing with *OpenMP*), Matlab (I run the MEX files written with Fortran and C++ to draw charts and trace mathematical algorithms.), Paython (I used it in mathematical algorithms.), Java (I've written Android apps)
+QBasic ([I became a **programmer** since 1999!](https://github.com/EsmaeelZekaee/clock)),
+Visual Basic (I continued programming with Visual Basic until I got familiar with C# and .Net tecnology, I wrote a few applications with Visual Basic for example a small accounting program especially for a flower shop.),
+C/C++ (I wrote a logic bomb for MS-DOC OS, and some small programs with MFC), Fortran (I used it in parallel processing with *OpenMP*), Matlab (I run the MEX files written with Fortran and C++ to draw charts and trace mathematical algorithms.), Paython (I used it in mathematical algorithms.), Java (I've written [Android apps](https://github.com/EsmaeelZekaee/AQuranProject).)
 
 ### Familar with
 
-AspBoilerplate framework, Ionic Framework,  Xamarin, Raspberry pi, Arduino
+AspBoilerplate Framework (I started to develop a non commercial app with AspBoilerplate.),  Xamarin (I worked on telegram client app with Xamarin.), Raspberry pi, Arduino (I love electronics and I done a few DIY project with Arduino for example a  CNC simple controller.)
 
-## Research interests
+## Research Interests
 Computer Science, Mathematics, Electronics.
 
 ## Education
@@ -55,7 +58,7 @@ __Applied Mathematics, Graph theory and combinations__ Shahrood University of Te
 ## Work History
 
 `2004-2005`
-__IT Department Employee__, Safa Toos, Kavian Industrial town, Fariman-Mashhad Road Khorasan
+__IT Department Employee__, Safa Toos, Kavian Industrial Town, Fariman Rd, Mashhad
 
 `2014-2015`
 __IT Department Manager__, DEMICO, Lavizan, Tehran
@@ -90,6 +93,7 @@ Create a CMS for a news website (ASP.NET MVC, Web API, AngularJS)
 `2011`
 ***Gh. Sadeghi, E. Zekaee***, **Construction of all topologies on finite sets**, 42th Annual Iranian Mathematics conference, Rafsanjan
 
+ \newpage
 
 ## Journals
 
@@ -107,3 +111,7 @@ Create a CMS for a news website (ASP.NET MVC, Web API, AngularJS)
 
 `2016`
 ***A. Arefijamaal, E. Zekaee***, **Image processing by alternate dual Gabor frames**, Bull. Iranian Math. Soc., 42 1305-1314
+
+
+
+  
