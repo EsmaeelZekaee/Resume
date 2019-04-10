@@ -67,7 +67,7 @@ __IT Department Manager__, ModaresaneSharif Institute, Enghelab Sq, Tehran
 __Project Manager__, Peyvand Gostar Pardis, Fatemi Sq, Tehran
 
 ## Recent Projects
- 
+
 `2018-2019`
 Develope up to 12 nopCommerce Plugins (RESTFull WebApi plugin,SMS services plugin, Bank cards plugins, Persian calendar plugin, Resource manager plugin, Delivery day plugin, etc.)
 
