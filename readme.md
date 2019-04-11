@@ -33,7 +33,7 @@ Looking for a job position in an experienced team in a **.NET based** software c
 
 ### Skilled in
 
-.Net Framework (C#) since 2004, Asp.Net MVC, Web Api, Asp.Net Core, EF, JavaScript, jQuery, AngularJs, HTML, CSS, TypeScirpt, LESS, SemanticUI, SQLServer, MS-Office (expert user in VBA), T4 (I created many T4 templates to auto generate C#, TS and HTML files in visual studio at design time.), Windows From Applications (Graph drawing and coloring application with professional GUI.)
+.Net Framework (C#) since 2004, Asp.Net MVC, Web Api, Asp.Net Core, EF, JavaScript, jQuery, AngularJs, HTML, CSS, TypeScirpt, LESS, SemanticUI, SQLServer, MS-Office (expert user in VBA), T4 (I created many T4 templates to auto generate C#, TS and HTML files in visual studio at design time.), Windows Desktop Applications (Graph drawing and coloring application with professional GUI.)
 
 ### Have experience in
 QBasic ([I became a **programmer** since 1999!](https://github.com/EsmaeelZekaee/clock)),
