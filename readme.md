@@ -35,7 +35,7 @@ Looking for a job position in an experienced team in a **.NET based** software c
 
 .Net Framework (with C# since 2004), Asp.Net MVC, RESTFul WebAPI, Asp.Net Core, EF, JavaScript, jQuery, AngularJs, Angular, HTML, CSS, TypeScirpt, LESS, SemanticUI, nopCommerce (plugin developer), SQLServer, MS-Office (expert user in VBA) , T4 (I created many T4 templates to auto generate C#, TS and HTML files in software development environment at design time.), WFP (**nopCommerce** Resource Editor), Windows From Applications (Graph drawing and coloring application with professional GUI.)
 
-### Work Experience
+### Work experience
 QBasic ([I became a **programmer** since 1999!](https://github.com/EsmaeelZekaee/clock)),
 Visual Basic (I continued programming with Visual Basic until I got familiar with C# and .Net tecnology, I wrote a few applications with Visual Basic for example a small accounting program especially for a flower shop.),
 C/C++ (I wrote a logic bomb for MS-DOC OS, and some small programs with MFC), Fortran (I used it in parallel processing with *OpenMP*), Matlab (I run the MEX files written with Fortran and C++ to draw charts and trace mathematical algorithms.), Paython (I used it in mathematical algorithms.), Java (I've written [Android apps](https://github.com/EsmaeelZekaee/AQuranProject).)
