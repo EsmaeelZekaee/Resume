@@ -23,7 +23,7 @@
 
 ## Biography
 
-I borned on 21 Mar 1983. I fell in love with programming when I was high school student. I studied **Mathematics** at university and I graduated MSc Mathematics with my dissertation on Wavelets on graphs via spectral graph theory. I specialize in the fields of object-oriented programming, data modeling, software analysis and implementation of complex algorithms, and implementation of modern design patterns.
+I was borned on 21 Mar 1983. I fell in love with programming when I was high school student. I studied **Mathematics** at university and I graduated MSc Mathematics with my dissertation on Wavelets on graphs via spectral graph theory. I specialize in the fields of object-oriented programming, data modeling, software analysis and implementation of complex algorithms, and implementation of modern design patterns.
 
 ## Job Objective 
 
