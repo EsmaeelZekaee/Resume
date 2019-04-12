@@ -27,7 +27,7 @@ I was born on 21 Mar 1983. I fell in love with programming when I was high schoo
 
 ## Job Objective 
 
-Looking for a job position in an experienced team in a **.NET based** software company to apply my experiences in **designing**, **developing**, and **coding** web applications and adding value to business.
+Looking for a job position in an experienced team in a **.NET based** software company to apply my experiences in **designing**, **developing**, and **programming** web applications and adding value to business.
 
 ## Specialized In
 
