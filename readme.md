@@ -33,16 +33,15 @@ Looking for a job position in an experienced team in a **.NET based** software c
 
 ### Skilled in
 
-.Net Framework (C#) since 2004, Asp.Net MVC, Web Api, Asp.Net Core, EF, JavaScript, jQuery, AngularJs, HTML, CSS, TypeScirpt, LESS, SemanticUI, SQLServer, MS-Office (expert user in VBA), T4 (I created many T4 templates to auto generate C#, TS and HTML files in visual studio at design time.), Windows Desktop Applications (Graph drawing and coloring application with professional GUI.)
+.Net Framework (C#) since 2004, Asp.Net Core, EF Core, JavaScript, jQuery, AngularJs/Angular, HTML, CSS, TypeScirpt, LESS, SemanticUI, SQLServer, PostgreSQL, MS-Office (expert user in VBA), Windows Desktop Applications (WinFroms), Visual Studio Add-Ins, VSCode (**My Favorite IDE**), GNU Linux (I :heartbeat: Ubuntu), Docker, 
 
 ### Have experiences in
 QBasic ([I became a **programmer** since 1999!](https://github.com/EsmaeelZekaee/clock)),
 Visual Basic (I continued programming with Visual Basic until I got familiar with C# and .Net tecnology, I wrote a few applications with Visual Basic for example a small accounting program especially for a flower shop.),
 C/C++ (I wrote many mathematical algorithm with c/c++ in researches.), Fortran (parallel processing with *OpenMP*), Matlab (I run the MEX files written with Fortran and C++ to draw charts and trace mathematical algorithms.), Java (I've written [Android apps](https://github.com/EsmaeelZekaee/AQuranProject).)
-
+**Python** I used python to develop some CLI in Linux.
 ### Familar with
-
-AspBoilerplate Framework (I started to develop a non commercial app with AspBoilerplate.),  Xamarin (I worked on telegram client app with Xamarin.), Raspberry pi, Arduino (I love electronics and I done a few DIY project with Arduino for example a  CNC simple controller.)
+Jira, Bitbucket, Confluence. 
 
 ## Research Interests
 Computer Science, Mathematics, Electronics.
@@ -70,6 +69,9 @@ __IT Department Manager__, ModaresaneSharif Institute, Enghelab Sq, Tehran
 __Project Manager__, Peyvand Gostar Pardis, Fatemi Sq, Tehran
 
 ## Recent Projects
+`2019-Now`
+I am currently working on a team that develops cloud accounting and finance software. 
+
 
 `2018-2019`
 Develope up to 12 nopCommerce Plugins (RESTFull WebApi plugin,SMS services plugin, Bank cards plugins, Persian calendar plugin, Resource manager plugin, Delivery day plugin, etc.)
