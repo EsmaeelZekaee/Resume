@@ -10,7 +10,7 @@
 
 <div id="webaddress">
   <a target="_blank" href="mailto:zekaee.esmaeel@gmail.com">Gmail</a>
-   |  <a target="_blank" href="https://www.linkedin.com/in/zekaee-esmaeel-37474aab/">LinkedIn</a> | 
+   |  <a target="_blank" href="https://www.linkedin.com/in/esmaeel-zekaee-851a079a/">LinkedIn</a> | 
    <a target="_blank" href="https://t.me/Izmaeilz">Telegram</a>
    |
    <a target="_blank" href="https://github.com/EsmaeelZekaee/Resume">
