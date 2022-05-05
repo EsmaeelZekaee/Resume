@@ -68,6 +68,9 @@ __IT Department Manager__, ModaresaneSharif Institute, Enghelab Sq, Tehran
 `2018-2019`
 __Project Manager__, Peyvand Gostar Pardis, Fatemi Sq, Tehran
 
+`2019-Now`
+__Sernior Developer, Team Lead__, Pishtazan Segal Mehr, Hassan Abbad Sq, Tehran
+
 ## Recent Projects
 `2019-Now`
 I am currently working on a team that develops cloud accounting and finance software. 
